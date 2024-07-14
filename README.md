@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachini Senanayake</h1>
 <h3 align="center">Undergraduate | BSc.( Hons) in Artificial Intelligence | University of Moratuwa</h3>
 
-- 📫 How to reach me **Sachisenanayake1@gmail.com**
+- Email: **Sachisenanayake1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
