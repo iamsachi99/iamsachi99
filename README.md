@@ -4,7 +4,9 @@
 
 ### About Me
 
-As a dedicated AI undergraduate with a proven track record of excellence, I am driven by a passion for technology and innovation. My ambition is to start my professional journey in a dynamic environment where I can gain valuable, comprehensive experience. I pride myself on being self-motivated and detail-oriented, balancing my academic pursuits with active participation in extracurricular activities. These experiences have been instrumental in shaping my skills, personality, and overall attitude. I thrive on challenges and am always eager to learn something new. Recently, I have done an exciting project that blend AI, ML, and web development.
+<p>As a dedicated AI undergraduate with a proven track record of excellence, I am driven by a passion for technology and innovation. My ambition is to start my professional journey in a dynamic environment where I can gain valuable, comprehensive experience. I pride myself on being self-motivated and detail-oriented, balancing my academic pursuits with active participation in extracurricular activities. These experiences have been instrumental in shaping my skills, personality, and overall attitude. I thrive on challenges and am always eager to learn something new. Recently, I have done an exciting project that blend AI, ML, and web development.</p>
+
+<p>Volunteerism is a significant aspect of my life, playing a crucial role in my personal and professional growth. It has allowed me to enhance my abilities, expand my horizons, and make meaningful contributions to society. I am actively seeking opportunities that will allow me to continue this path of growth and service.</p>
 
 ### 🔭 What I've done
 
