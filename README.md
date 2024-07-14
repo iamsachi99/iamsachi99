@@ -42,7 +42,7 @@ As a dedicated AI undergraduate with a proven track record of excellence, I am d
   
 ### ⚡ Fun Facts
 
-- I can understand the language of Kittens and how they behave depending on the situation😝 and  I can imitate and doub characters from early childhood and sound exact as them😋
+I can understand the language of Kittens and how they behave depending on the situation😝 and  I can imitate and doub characters from early childhood and sound exact as them😋
 
 
 ### 🚀 Join Me on My Journey
