@@ -10,12 +10,12 @@ As a dedicated AI undergraduate with a proven track record of excellence, I am d
 
 **🌟 IFS Community Page ChatBot & Problem Recommendation System**
 -  The project aims to improve the functionality and effectiveness of IFS Community Page Supply Chain Management section by Utilizing AI technology, introducing a problem dash board and a Chatbot.
-    Role : UI/UX Designer, Full-Stack Developer
-    ReactJS , Flask, Python, Figma
+    <p>Role : UI/UX Designer, Full-Stack Developer</p>
+    <p>ReactJS , Flask, Python, Figma</p>
 
-**Automated Battery Monitoring System  - Hardware (2023)**
+**🪫 Automated Battery Monitoring System  - Hardware (2023)**
 -   A device that can be used to safely discharge and charge a range of Lead Acid batteries and monitor voltage and current fluctuations to determine anomalies. It is also consisted of mechanisams to detect various health defects of the battery by measurements of their voltage, heat and current changing rates.
-    Technologies : Atmega - 32, C
+    <p>Technologies : Atmega - 32, C</p>
 
 ### 🛠️ Technical Skills
 
