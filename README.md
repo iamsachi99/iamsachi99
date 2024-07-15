@@ -10,7 +10,7 @@
 
 ### 🔭 What I've done
 
-**🌟 <i>IFS Community Page ChatBot & Problem Recommendation System<i>**
+**🌟 IFS Community Page ChatBot & Problem Recommendation System**
 -  The project aims to improve the functionality and effectiveness of IFS Community Page Supply Chain Management section by Utilizing AI technology, introducing a problem dash board and a Chatbot.
     <p>Role : UI/UX Designer, Full-Stack Developer</p>
     <p>ReactJS , Flask, Python, Figma</p>
