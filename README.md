@@ -39,8 +39,8 @@
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** www.linkedin.com/in/sachi-senanayake
-- **HackerRank:** https://www.hackerrank.com/profile/sachisenanayake1
+- <i>**LinkedIn:** </i> www.linkedin.com/in/sachi-senanayake
+- <i>**HackerRank:** </i> https://www.hackerrank.com/profile/sachisenanayake1
   
 ### ⚡ Fun Facts
 
